@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HIIT</string>
+    <string name="developedby">Developed by Adam T. Ryder</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="activeperiod">Active Period</string>
+    <string name="restperiod">Rest Period</string>
+    <string name="prepperiod">Prep Period</string>
+    <string name="help">Help</string>
+    <string name="label_help">HELP</string>
+    <string name="help_activeperiod">The number of seconds for the active period of your workout.</string>
+    <string name="help_restperiod">The number of seconds for the rest period of your workout.</string>
+    <string name="help_prepperiod">The number of seconds before the end of the rest period to notify of the approaching end of the rest period.</string>
+    <string name="rest">REST</string>
+    <string name="active">ACTIVE</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="pause">PAUSE</string>
+    <string name="label_set">SET: </string>
+</resources>
