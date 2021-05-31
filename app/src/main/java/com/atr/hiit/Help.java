@@ -50,7 +50,7 @@ public class Help extends DialogFragment {
             }
         }
 
-        builder.setTitle(getText(R.string.help)).setView(view).setPositiveButton(getText(R.string.dismiss), new DialogInterface.OnClickListener() {
+        builder.setView(view).setPositiveButton(getText(R.string.dismiss), new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int id) {
                         dismiss();
