@@ -5,6 +5,13 @@ The first rule of Zombieland; cardio.
 
 HIIT, high intensity interval timer, is a no frills timer for interval training routines, or anything you may need an interval timer for really. You may specify a number of seconds for each active period, a number of seconds for each rest period and, optionally, a number of seconds before the end of each rest period to warn of the upcoming active period giving you time to prepare.
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.atr.hiit/)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=com.atr.hiit)
+
 HIIT Features:
 
 - No ads
